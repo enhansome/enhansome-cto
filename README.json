@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,24 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54109344,
             "language": "Shell",
             "last_commit": "2026-07-19T14:47:12Z",
             "owner": "charlax",
             "repo": "engineering-management",
-            "stars": 8341
+            "stars": 8342
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Leading and Managing",
-          "description": "(Github)",
-          "children": []
         }
       ],
       "title": "People Management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -36,11 +31,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216124407,
             "language": null,
             "last_commit": "2022-11-01T22:12:16Z",
             "owner": "jorgef",
             "repo": "engineeringladders",
-            "stars": 8537
+            "stars": 8538
           }
         },
         {
@@ -50,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 152259159,
             "language": null,
             "last_commit": "2022-03-21T05:19:28Z",
             "owner": "posquit0",
@@ -69,6 +66,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 207117992,
                 "language": null,
                 "last_commit": "2025-02-19T22:41:18Z",
                 "owner": "viraptor",
@@ -82,7 +80,7 @@
       "title": "Career growth"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -91,11 +89,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132750724,
             "language": "Markdown",
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 540787
+            "stars": 541124
           }
         },
         {
@@ -105,11 +104,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115478820,
             "language": null,
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73365
+            "stars": 73384
           }
         },
         {
@@ -119,18 +119,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55260959,
             "language": null,
             "last_commit": "2025-03-18T16:49:03Z",
             "owner": "aphyr",
             "repo": "distsys-class",
-            "stars": 9872
+            "stars": 9874
           }
         }
       ],
       "title": "Architecture"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -144,11 +145,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 85077558,
                 "language": "TypeScript",
                 "last_commit": "2026-08-18T11:56:04Z",
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 364838
+                "stars": 364910
               }
             },
             {
@@ -158,11 +160,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 60493101,
                 "language": null,
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359131
+                "stars": 359199
               }
             }
           ]
@@ -179,11 +182,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 23208012,
                 "language": null,
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14760
+                "stars": 14766
               }
             }
           ]
@@ -200,6 +204,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 107594709,
                 "language": null,
                 "last_commit": "2023-04-02T15:50:31Z",
                 "owner": "open-guides",
@@ -221,11 +226,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 63266213,
                 "language": "Shell",
                 "last_commit": "2024-08-16T02:51:54Z",
                 "owner": "open-guides",
                 "repo": "og-aws",
-                "stars": 36440
+                "stars": 36441
               }
             }
           ]
@@ -242,6 +248,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 191599624,
                 "language": null,
                 "last_commit": "2026-08-14T13:46:25Z",
                 "owner": "kdeldycke",
@@ -256,6 +263,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 563524791,
                 "language": null,
                 "last_commit": "2023-02-24T14:53:52Z",
                 "owner": "priceops",
@@ -269,7 +277,7 @@
       "title": "Technologies"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -278,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173645627,
             "language": "CSS",
             "last_commit": "2026-02-08T02:36:12Z",
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2310
+            "stars": 2311
           }
         },
         {
@@ -292,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216184392,
             "language": null,
             "last_commit": "2026-03-06T14:32:01Z",
             "owner": "yuhenobi",
@@ -303,7 +313,7 @@
       "title": "Product"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -312,11 +322,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21737465,
             "language": null,
             "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497326
+            "stars": 497658
           }
         },
         {
@@ -326,11 +337,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37382858,
             "language": "Ruby",
             "last_commit": "2024-08-21T13:01:11Z",
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38518
+            "stars": 38521
           }
         },
         {
@@ -340,11 +352,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21600440,
             "language": "Ruby",
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33610
+            "stars": 33609
           }
         },
         {
@@ -354,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67687706,
             "language": null,
             "last_commit": "2026-08-14T13:32:02Z",
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27620
+            "stars": 27624
           }
         },
         {
@@ -368,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125417347,
             "language": null,
             "last_commit": "2021-06-05T00:19:13Z",
             "owner": "mateusz-brainhub",
@@ -382,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51717366,
             "language": null,
             "last_commit": "2016-02-14T22:31:54Z",
             "owner": "92bondstreet",
@@ -396,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51717366,
             "language": null,
             "last_commit": "2016-02-14T22:31:54Z",
             "owner": "92bondstreet",
@@ -407,7 +424,7 @@
       "title": "More links"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -416,6 +433,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 582413746,
             "language": null,
             "last_commit": "2023-02-16T09:50:34Z",
             "owner": "kuchin",
@@ -430,6 +448,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 394685843,
             "language": null,
             "last_commit": "2022-03-23T12:21:27Z",
             "owner": "kuchin",
@@ -439,16 +458,12 @@
         }
       ],
       "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:13:32.491Z",
+    "last_updated": "2026-08-19T12:24:45.068Z",
     "original_repository": "kuchin/awesome-cto",
+    "original_repository_id": 76679496,
     "original_repository_sha": "2e656660c9437d2908005ec185f177c1d6e05b7a",
     "enhanced_repository": "enhansome/enhansome-cto",
     "enhanced_repository_description": null,

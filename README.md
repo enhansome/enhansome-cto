@@ -66,7 +66,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## People Management
 
-* [Engineering Management](https://github.com/charlax/engineering-management) ⭐ 8,341 | 🐛 1 | 🌐 Shell | 📅 2026-07-19 *(Github)*
+* [Engineering Management](https://github.com/charlax/engineering-management) ⭐ 8,342 | 🐛 1 | 🌐 Shell | 📅 2026-07-19 *(Github)*
 * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
 * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
@@ -113,7 +113,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Career growth
 
-* [Software Engineering Ladders](https://github.com/jorgef/engineeringladders) ⭐ 8,537 | 🐛 6 | 📅 2022-11-01 *(GitHub)*
+* [Software Engineering Ladders](https://github.com/jorgef/engineeringladders) ⭐ 8,538 | 🐛 6 | 📅 2022-11-01 *(GitHub)*
 * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) ⭐ 122 | 🐛 1 | 📅 2022-03-21 *(GitHub)*
 * [Career Growth Frameworks in Software Engineering: A Review](https://web.archive.org/web/20210123114037/https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6)
 * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework)
@@ -135,7 +135,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
 * [Valve Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
-* [Basecamp Employee Handbook](https://github.com/basecamp/handbook) ⭐ 6,642 | 🐛 3 | 📅 2026-05-01
+* [Basecamp Employee Handbook](https://github.com/basecamp/handbook) ⭐ 6,643 | 🐛 3 | 📅 2026-05-01
 * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
 * [How HashiCorp Works](https://works.hashicorp.com/)
 
@@ -156,7 +156,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
   * [It’s Time to Rethink Technical Debt Management](https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/)
 * Crisis
   * [How to Write a Postmortem](https://web.archive.org/web/20210618014202/https://blog.serverdensity.com/how-to-write-a-postmortem/)
-  * [List of Post-mortems](https://github.com/danluu/post-mortems) ⭐ 12,245 | 🐛 11 | 📅 2026-06-22 *(GitHub)*
+  * [List of Post-mortems](https://github.com/danluu/post-mortems) ⭐ 12,252 | 🐛 11 | 📅 2026-06-22 *(GitHub)*
   * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
   * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
   * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
@@ -165,9 +165,9 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Architecture
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 540,787 | 🐛 633 | 🌐 Markdown | 📅 2026-07-14 *(GitHub)*
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,365 | 🐛 26 | 📅 2026-01-04 *(GitHub)*
-* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) ⭐ 9,872 | 🐛 6 | 📅 2025-03-18 - Kyle Kingsbury *(aphyr, author of Jepsen)*
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 541,124 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14 *(GitHub)*
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,384 | 🐛 26 | 📅 2026-01-04 *(GitHub)*
+* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) ⭐ 9,874 | 🐛 6 | 📅 2025-03-18 - Kyle Kingsbury *(aphyr, author of Jepsen)*
 * [Twelve-Factor App](https://12factor.net)
 * [Reactive Manifesto](https://www.reactivemanifesto.org)
 * [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
@@ -187,8 +187,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 ## Technologies
 
 * General
-  * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) ⭐ 364,838 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-18 *(GitHub)*
-  * [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,131 | 🐛 123 | 📅 2025-08-28 *(GitHub)*
+  * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) ⭐ 364,910 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-18 *(GitHub)*
+  * [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,199 | 🐛 124 | 📅 2025-08-28 *(GitHub)*
   * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
 * Javascript
   * [JS: The Right Way](http://jstherightway.org)
@@ -197,12 +197,12 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
   * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
   * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
 * Security
-  * [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,760 | 🐛 309 | 📅 2026-01-11 *(GitHub)*
+  * [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,766 | 🐛 309 | 📅 2026-01-11 *(GitHub)*
   * [SaaS CTO Security Checklist](https://web.archive.org/web/20230324072622/https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 * Search
   * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) ⭐ 598 | 🐛 2 | 📅 2023-04-02 *(GitHub)*
 * Cloud
-  * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws) ⭐ 36,440 | 🐛 159 | 🌐 Shell | 📅 2024-08-16 *(GitHub)*
+  * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws) ⭐ 36,441 | 🐛 159 | 🌐 Shell | 📅 2024-08-16 *(GitHub)*
   * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
   * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
@@ -224,11 +224,11 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
   * [Managing Data Science Teams](https://www.dominodatalab.com/resources/field-guide/managing-data-science-teams/)
   * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
 * Machine Learning
-  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,061 | 🐛 26 | 🌐 Python | 📅 2026-08-11 *(GitHub)*
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,070 | 🐛 26 | 🌐 Python | 📅 2026-08-11 *(GitHub)*
   * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
   * [Deep Learning For Coders](https://course.fast.ai)
-  * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,851 | 🐛 31 | 📅 2026-08-12 *(GitHub)*
+  * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,853 | 🐛 31 | 📅 2026-08-12 *(GitHub)*
   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 ## Startups
@@ -289,7 +289,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Product
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,310 | 🐛 193 | 🌐 CSS | 📅 2026-02-08 *(GitHub)*
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,311 | 🐛 194 | 🌐 CSS | 📅 2026-02-08 *(GitHub)*
 * [Awesome Product Manager](https://github.com/yuhenobi/awesome-product-manager) ⭐ 326 | 🐛 3 | 📅 2026-03-06 *(GitHub)*
 * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
 * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
@@ -319,14 +319,14 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 * [Epic CTO Reading List](https://www.goodreads.com/list/show/36429.Epic_CTO_Reading_List)
 * [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
-* [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/) ⭐ 14,188 | 🐛 9 | 📅 2025-07-30
+* [Startup CTO's Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook/) ⭐ 14,189 | 🐛 9 | 📅 2025-07-30
 
 ## More links
 
-* [Awesome.re](https://github.com/sindresorhus/awesome) ⭐ 497,326 | 🐛 102 | 📅 2026-08-18 *(GitHub)*
-* [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,518 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21 *(GitHub)*
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,610 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 *(GitHub)*
-* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,620 | 🐛 4 | 📅 2026-08-14 *(GitHub)*
+* [Awesome.re](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18 *(GitHub)*
+* [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,521 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21 *(GitHub)*
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 *(GitHub)*
+* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,624 | 🐛 4 | 📅 2026-08-14 *(GitHub)*
 * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) ⭐ 929 | 🐛 2 | 📅 2021-06-05 *(GitHub)*
 * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) ⭐ 175 | 🐛 0 | 📅 2016-02-14 *(GitHub)*
 * [Curated list of CTO resources](https://github.com/92bondstreet/cto) ⭐ 175 | 🐛 0 | 📅 2016-02-14 *(GitHub)*
@@ -352,4 +352,4 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
