@@ -66,7 +66,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## People Management
 
-* [Engineering Management](https://github.com/charlax/engineering-management) ⭐ 8,342 | 🐛 1 | 🌐 Shell | 📅 2026-07-19 *(Github)*
+* [Engineering Management](https://github.com/charlax/engineering-management) ⭐ 8,343 | 🐛 1 | 🌐 Shell | 📅 2026-07-19 *(Github)*
 * [The mythical 10x programmer](http://antirez.com/news/112) - Salvatore Sanfilippo *(author of Redis)*
 * [The Engineer/Manager Pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/) - Charity Majors
 * [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham *(Y Combinator)*
@@ -165,8 +165,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Architecture
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,065 | 🐛 636 | 🌐 Markdown | 📅 2026-07-14 *(GitHub)*
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,456 | 🐛 26 | 📅 2026-01-04 *(GitHub)*
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 542,283 | 🐛 638 | 🌐 Markdown | 📅 2026-07-14 *(GitHub)*
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,481 | 🐛 26 | 📅 2026-01-04 *(GitHub)*
 * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) ⭐ 9,874 | 🐛 6 | 📅 2025-03-18 - Kyle Kingsbury *(aphyr, author of Jepsen)*
 * [Twelve-Factor App](https://12factor.net)
 * [Reactive Manifesto](https://www.reactivemanifesto.org)
@@ -187,8 +187,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 ## Technologies
 
 * General
-  * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,148 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-21 *(GitHub)*
-  * [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,486 | 🐛 124 | 📅 2025-08-28 *(GitHub)*
+  * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,231 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-21 *(GitHub)*
+  * [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,549 | 🐛 124 | 📅 2025-08-28 *(GitHub)*
   * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
 * Javascript
   * [JS: The Right Way](http://jstherightway.org)
@@ -197,12 +197,12 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
   * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
   * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
 * Security
-  * [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,786 | 🐛 314 | 📅 2026-01-11 *(GitHub)*
+  * [Awesome Security](https://github.com/sbilly/awesome-security) ⭐ 14,790 | 🐛 313 | 📅 2026-01-11 *(GitHub)*
   * [SaaS CTO Security Checklist](https://web.archive.org/web/20230324072622/https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
 * Search
   * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) ⭐ 599 | 🐛 2 | 📅 2023-04-02 *(GitHub)*
 * Cloud
-  * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws) ⭐ 36,443 | 🐛 159 | 🌐 Shell | 📅 2024-08-16 *(GitHub)*
+  * [Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws) ⭐ 36,444 | 🐛 159 | 🌐 Shell | 📅 2024-08-16 *(GitHub)*
   * [Amazon AWS in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
   * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
   * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
@@ -224,11 +224,11 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
   * [Managing Data Science Teams](https://www.dominodatalab.com/resources/field-guide/managing-data-science-teams/)
   * [How to Structure a Data Science Team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
 * Machine Learning
-  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,117 | 🐛 26 | 🌐 Python | 📅 2026-08-21 *(GitHub)*
+  * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,127 | 🐛 26 | 🌐 Python | 📅 2026-08-21 *(GitHub)*
   * [Best resources of everyday ML learning](https://www.quora.com/As-a-data-scientist-what-is-your-best-resource-of-everyday-learning) *(Quora)*
   * [Machine Learning Crash Course: with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) *(Google)*
   * [Deep Learning For Coders](https://course.fast.ai)
-  * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,860 | 🐛 31 | 📅 2026-08-12 *(GitHub)*
+  * [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning) ⭐ 20,864 | 🐛 31 | 📅 2026-08-12 *(GitHub)*
   * [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
 
 ## Startups
@@ -289,7 +289,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Product
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,315 | 🐛 197 | 🌐 CSS | 📅 2026-02-08 *(GitHub)*
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,316 | 🐛 198 | 🌐 CSS | 📅 2026-02-08 *(GitHub)*
 * [Awesome Product Manager](https://github.com/yuhenobi/awesome-product-manager) ⭐ 328 | 🐛 3 | 📅 2026-03-06 *(GitHub)*
 * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
 * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
@@ -323,10 +323,10 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## More links
 
-* [Awesome.re](https://github.com/sindresorhus/awesome) ⭐ 498,906 | 🐛 105 | 📅 2026-08-21 *(GitHub)*
-* [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,539 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21 *(GitHub)*
-* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,617 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 *(GitHub)*
-* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,634 | 🐛 4 | 📅 2026-08-14 *(GitHub)*
+* [Awesome.re](https://github.com/sindresorhus/awesome) ⭐ 499,217 | 🐛 106 | 📅 2026-08-21 *(GitHub)*
+* [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,541 | 🐛 150 | 🌐 Ruby | 📅 2024-08-21 *(GitHub)*
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,618 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 *(GitHub)*
+* [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,641 | 🐛 4 | 📅 2026-08-14 *(GitHub)*
 * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) ⭐ 930 | 🐛 2 | 📅 2021-06-05 *(GitHub)*
 * [Chief Technology Officer vs Coder Thinker Organizer](https://github.com/92bondstreet/cto) ⭐ 175 | 🐛 0 | 📅 2016-02-14 *(GitHub)*
 * [Curated list of CTO resources](https://github.com/92bondstreet/cto) ⭐ 175 | 🐛 0 | 📅 2016-02-14 *(GitHub)*
@@ -343,7 +343,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Other
 
-* [Awesome CEO](https://github.com/kuchin/awesome-ceo) ⭐ 2,582 | 🐛 3 | 📅 2023-02-16 *(GitHub)*
+* [Awesome CEO](https://github.com/kuchin/awesome-ceo) ⭐ 2,583 | 🐛 3 | 📅 2023-02-16 *(GitHub)*
 * [Awesome TPM](https://github.com/kuchin/awesome-tpm) ⭐ 316 | 🐛 0 | 📅 2022-03-23 *(GitHub)*
 
 ## License
@@ -352,4 +352,4 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
