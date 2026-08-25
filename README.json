@@ -15,7 +15,7 @@
             "last_commit": "2026-07-19T14:47:12Z",
             "owner": "charlax",
             "repo": "engineering-management",
-            "stars": 8345
+            "stars": 8346
           }
         }
       ],
@@ -71,7 +71,7 @@
                 "last_commit": "2025-02-19T22:41:18Z",
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28582
+                "stars": 28584
               }
             }
           ]
@@ -120,7 +120,7 @@
                 "last_commit": "2026-06-22T04:52:28Z",
                 "owner": "danluu",
                 "repo": "post-mortems",
-                "stars": 12270
+                "stars": 12272
               }
             }
           ]
@@ -143,7 +143,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542721
+            "stars": 542884
           }
         },
         {
@@ -158,7 +158,7 @@
             "last_commit": "2026-01-04T03:51:47Z",
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73516
+            "stars": 73517
           }
         },
         {
@@ -173,7 +173,7 @@
             "last_commit": "2025-03-18T16:49:03Z",
             "owner": "aphyr",
             "repo": "distsys-class",
-            "stars": 9875
+            "stars": 9876
           }
         }
       ],
@@ -199,7 +199,7 @@
                 "last_commit": "2026-08-21T14:35:38Z",
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365340
+                "stars": 365372
               }
             },
             {
@@ -214,7 +214,7 @@
                 "last_commit": "2025-08-28T14:42:47Z",
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359675
+                "stars": 359703
               }
             }
           ]
@@ -236,7 +236,7 @@
                 "last_commit": "2026-01-11T02:00:26Z",
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14792
+                "stars": 14793
               }
             }
           ]
@@ -345,7 +345,7 @@
                 "last_commit": "2026-08-24T19:57:48Z",
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74148
+                "stars": 74149
               }
             },
             {
@@ -360,7 +360,7 @@
                 "last_commit": "2026-08-12T19:22:45Z",
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20868
+                "stars": 20867
               }
             }
           ]
@@ -461,7 +461,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499690
+            "stars": 499856
           }
         },
         {
@@ -476,7 +476,7 @@
             "last_commit": "2024-08-21T13:01:11Z",
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38545
+            "stars": 38550
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2023-02-16T09:50:34Z",
             "owner": "kuchin",
             "repo": "awesome-ceo",
-            "stars": 2589
+            "stars": 2590
           }
         },
         {
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:44:30.302Z",
+    "last_updated": "2026-08-25T17:18:54.375Z",
     "original_repository": "kuchin/awesome-cto",
     "original_repository_id": 76679496,
     "original_repository_sha": "2e656660c9437d2908005ec185f177c1d6e05b7a",
