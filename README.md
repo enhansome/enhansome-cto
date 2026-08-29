@@ -133,7 +133,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Handbooks
 
-* [Basecamp Employee Handbook](https://github.com/basecamp/handbook) ⭐ 6,650 | 🐛 3 | 📅 2026-05-01
+* [Basecamp Employee Handbook](https://github.com/basecamp/handbook) ⭐ 6,651 | 🐛 3 | 📅 2026-05-01
 * [The Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
 * [Valve Employee Handbook](https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 * [GitLab Team Handbook](https://about.gitlab.com/handbook/)
@@ -165,8 +165,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Architecture
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 543,698 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 *(GitHub)*
-* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,578 | 🐛 26 | 📅 2026-01-04 *(GitHub)*
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) ⭐ 543,734 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14 *(GitHub)*
+* [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) ⭐ 73,580 | 🐛 26 | 📅 2026-01-04 *(GitHub)*
 * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) ⭐ 9,881 | 🐛 6 | 📅 2025-03-18 - Kyle Kingsbury *(aphyr, author of Jepsen)*
 * [Twelve-Factor App](https://12factor.net)
 * [Reactive Manifesto](https://www.reactivemanifesto.org)
@@ -187,8 +187,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 ## Technologies
 
 * General
-  * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,786 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-21 *(GitHub)*
-  * [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,915 | 🐛 126 | 📅 2025-08-28 *(GitHub)*
+  * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) ⭐ 365,794 | 🐛 20 | 🌐 TypeScript | 📅 2026-08-21 *(GitHub)*
+  * [Coding Interview University](https://github.com/jwasham/coding-interview-university) ⭐ 359,922 | 🐛 126 | 📅 2025-08-28 *(GitHub)*
   * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
 * Javascript
   * [JS: The Right Way](http://jstherightway.org)
@@ -289,7 +289,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## Product
 
-* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,323 | 🐛 178 | 🌐 CSS | 📅 2026-02-08 *(GitHub)*
+* [Awesome Product Management](https://github.com/dend/awesome-product-management) ⭐ 2,323 | 🐛 179 | 🌐 CSS | 📅 2026-02-08 *(GitHub)*
 * [Awesome Product Manager](https://github.com/yuhenobi/awesome-product-manager) ⭐ 328 | 🐛 3 | 📅 2026-03-06 *(GitHub)*
 * [What Makes a Great Product Manager](https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356)
 * [If You Don’t Think You Need a VP of Product...](https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/)
@@ -323,8 +323,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
 
 ## More links
 
-* [Awesome.re](https://github.com/sindresorhus/awesome) ⭐ 500,858 | 🐛 105 | 📅 2026-08-21 *(GitHub)*
-* [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,554 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21 *(GitHub)*
+* [Awesome.re](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 *(GitHub)*
+* [Engineering blogs](https://github.com/kilimchoi/engineering-blogs) ⭐ 38,555 | 🐛 151 | 🌐 Ruby | 📅 2024-08-21 *(GitHub)*
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 *(GitHub)*
 * [Awesome Falsehood](https://github.com/kdeldycke/awesome-falsehood) ⭐ 27,653 | 🐛 4 | 📅 2026-08-14 *(GitHub)*
 * [Awesome CTO Resources](https://github.com/mateusz-brainhub/awesome-cto-resources) ⭐ 930 | 🐛 2 | 📅 2021-06-05 *(GitHub)*

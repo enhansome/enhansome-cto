@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of inspiring resources related to engineering management and tech leadership",
+            "homepage": null,
             "id": 54109344,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-19T14:47:12Z",
+            "open_issues": 1,
             "owner": "charlax",
             "repo": "engineering-management",
-            "stars": 8347
+            "stars": 8347,
+            "topics": [
+              "article",
+              "bias",
+              "culture",
+              "decisions",
+              "employee-handbook",
+              "engineering-management",
+              "leader",
+              "management"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -32,12 +46,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for Engineering Managers",
+            "homepage": "https://www.engineeringladders.com",
             "id": 216124407,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-11-01T22:12:16Z",
+            "open_issues": 6,
             "owner": "jorgef",
             "repo": "engineeringladders",
-            "stars": 8542
+            "stars": 8542,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -48,12 +67,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunglasses: A curated list of awesome resources for Engineering Ladder",
+            "homepage": null,
             "id": 152259159,
             "language": null,
+            "license": null,
             "last_commit": "2022-03-21T05:19:28Z",
+            "open_issues": 1,
             "owner": "posquit0",
             "repo": "awesome-engineering-ladders",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "awesome",
+              "awesome-engineering",
+              "awesome-engineering-ladders",
+              "awesome-list",
+              "career",
+              "career-guide",
+              "engineering-ladder",
+              "ladder"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -69,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Questions to ask the company during your interview",
+                "homepage": null,
                 "id": 207117992,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-19T22:41:18Z",
+                "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28587
+                "stars": 28587,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -93,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "37signals Employee Handbook",
+            "homepage": "https://basecamp.com/handbook",
             "id": 90042196,
             "language": null,
+            "license": null,
             "last_commit": "2026-05-01T12:18:06Z",
+            "open_issues": 3,
             "owner": "basecamp",
             "repo": "handbook",
-            "stars": 6650
+            "stars": 6651,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -120,12 +163,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of postmortems. Sorry for the delay in merging PRs!",
+                "homepage": "http://danluu.com/postmortem-lessons/",
                 "id": 40097225,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-22T04:52:28Z",
+                "open_issues": 11,
                 "owner": "danluu",
                 "repo": "post-mortems",
-                "stars": 12280
+                "stars": 12280,
+                "topics": [
+                  "debugging",
+                  "hacktoberfest",
+                  "post-mortem"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -144,12 +196,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "homepage": "https://codecrafters.io",
             "id": 132750724,
             "language": "Markdown",
+            "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
+            "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543698
+            "stars": 543734,
+            "topics": [
+              "awesome-list",
+              "free",
+              "programming",
+              "tutorial-code",
+              "tutorial-exercises",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -160,12 +224,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+            "homepage": null,
             "id": 115478820,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
+            "open_issues": 26,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73578
+            "stars": 73580,
+            "topics": [
+              "architecture",
+              "awesome",
+              "awesome-list",
+              "backend",
+              "big-data",
+              "computer-science",
+              "design-patterns",
+              "devops",
+              "distributed-systems",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "lists",
+              "machine-learning",
+              "programming",
+              "resources",
+              "scalability",
+              "system",
+              "system-design",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -176,12 +266,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Class materials for a distributed systems lecture series",
+            "homepage": null,
             "id": 55260959,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-18T16:49:03Z",
+            "open_issues": 6,
             "owner": "aphyr",
             "repo": "distsys-class",
-            "stars": 9881
+            "stars": 9881,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -203,12 +298,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                "homepage": "https://roadmap.sh",
                 "id": 85077558,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T14:35:38Z",
+                "open_issues": 20,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365786
+                "stars": 365794,
+                "topics": [
+                  "angular-roadmap",
+                  "backend-roadmap",
+                  "blockchain-roadmap",
+                  "computer-science",
+                  "dba-roadmap",
+                  "developer-roadmap",
+                  "devops-roadmap",
+                  "frontend-roadmap",
+                  "go-roadmap",
+                  "java-roadmap",
+                  "javascript-roadmap",
+                  "nodejs-roadmap",
+                  "python-roadmap",
+                  "qa-roadmap",
+                  "react-roadmap",
+                  "roadmap",
+                  "software-architect-roadmap",
+                  "vue-roadmap"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             },
@@ -219,12 +338,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete computer science study plan to become a software engineer.",
+                "homepage": null,
                 "id": 60493101,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-08-28T14:42:47Z",
+                "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359915
+                "stars": 359922,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "coding-interview",
+                  "coding-interviews",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "programming-interviews",
+                  "software-engineering",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -242,12 +379,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
+                "homepage": null,
                 "id": 23208012,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
+                "open_issues": 316,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14805
+                "stars": 14805,
+                "topics": [
+                  "awesome-list",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -265,12 +410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Want to build or improve a search experience? Start here.",
+                "homepage": null,
                 "id": 107594709,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-02T15:50:31Z",
+                "open_issues": 2,
                 "owner": "open-guides",
                 "repo": "og-search-engineering",
-                "stars": 598
+                "stars": 598,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -288,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📙 Amazon Web Services — a practical guide",
+                "homepage": null,
                 "id": 63266213,
                 "language": "Shell",
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-08-16T02:51:54Z",
+                "open_issues": 159,
                 "owner": "open-guides",
                 "repo": "og-aws",
-                "stars": 36444
+                "stars": 36444,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -311,12 +466,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "💰 Billing & Payments knowledge for cloud platforms",
+                "homepage": null,
                 "id": 191599624,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T13:46:25Z",
+                "open_issues": 2,
                 "owner": "kdeldycke",
                 "repo": "awesome-billing",
-                "stars": 1329
+                "stars": 1329,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "billing",
+                  "cloud-billing",
+                  "cost-forecast",
+                  "cost-management",
+                  "double-entry",
+                  "fraud",
+                  "invoicing",
+                  "metering",
+                  "payment-processing",
+                  "pricing",
+                  "pricing-strategy",
+                  "product-catalog",
+                  "saas-billing",
+                  "subscription-billing",
+                  "subscription-management",
+                  "tax",
+                  "usage-based-billing",
+                  "vat"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             },
@@ -327,12 +508,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Links to articles, guides and resources related to software pricing and its implementation.  ",
+                "homepage": "https://priceops.org",
                 "id": 563524791,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-02-24T14:53:52Z",
+                "open_issues": 1,
                 "owner": "priceops",
                 "repo": "awesome-priceops",
-                "stars": 157
+                "stars": 157,
+                "topics": [
+                  "billing",
+                  "pricing",
+                  "saas",
+                  "stripe"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -356,12 +547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             },
@@ -372,12 +568,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+                "homepage": "https://ethicalml.github.io/awesome-production-machine-learning",
                 "id": 144863525,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-26T05:40:57Z",
+                "open_issues": 32,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20877
+                "stars": 20877,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data-mining",
+                  "deep-learning",
+                  "explainability",
+                  "interpretability",
+                  "large-scale-machine-learning",
+                  "large-scale-ml",
+                  "machine-learning",
+                  "machine-learning-operations",
+                  "ml-operations",
+                  "ml-ops",
+                  "mlops",
+                  "privacy-preserving",
+                  "privacy-preserving-machine-learning",
+                  "privacy-preserving-ml",
+                  "production-machine-learning",
+                  "production-ml",
+                  "responsible-ai"
+                ]
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
             }
@@ -396,12 +617,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of startups/companies that had successful pivots",
+            "homepage": null,
             "id": 255243169,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-09-10T07:35:23Z",
+            "open_issues": 8,
             "owner": "fikrikarim",
             "repo": "companies-with-successful-pivot",
-            "stars": 760
+            "stars": 760,
+            "topics": [
+              "companies",
+              "list",
+              "pivot",
+              "startup"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -418,12 +649,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of technical due diligence questions",
+            "homepage": null,
             "id": 239697455,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-11T07:43:59Z",
+            "open_issues": 0,
             "owner": "altunyurt",
             "repo": "technical_due_diligence",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "due-diligence",
+              "questions"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -440,12 +679,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 A curated list of awesome resources for product/program managers to learn and grow.",
+            "homepage": null,
             "id": 173645627,
             "language": "CSS",
+            "license": "CC0-1.0",
             "last_commit": "2026-02-08T02:36:12Z",
+            "open_issues": 179,
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2323
+            "stars": 2323,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "pm",
+              "product",
+              "product-management"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -456,12 +706,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for product managers to learn and grow.",
+            "homepage": null,
             "id": 216184392,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-06T14:32:01Z",
+            "open_issues": 3,
             "owner": "yuhenobi",
             "repo": "awesome-product-manager",
-            "stars": 328
+            "stars": 328,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "product-design",
+              "product-management"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -478,12 +738,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500858
+            "stars": 500890,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -494,12 +765,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of engineering blogs",
+            "homepage": null,
             "id": 37382858,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-08-21T13:01:11Z",
+            "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38554
+            "stars": 38555,
+            "topics": [
+              "engineering-blogs",
+              "lists",
+              "programming-blogs",
+              "software-development",
+              "tech"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -510,12 +792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33634
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -526,12 +813,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😱 Falsehoods Programmers Believe in",
+            "homepage": null,
             "id": 67687706,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-14T13:32:02Z",
+            "open_issues": 4,
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27653
+            "stars": 27653,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "currency",
+              "date",
+              "edge-cases",
+              "falsehoods",
+              "geography",
+              "identity",
+              "internationalization",
+              "myths",
+              "names",
+              "phone-number",
+              "phone-numbers",
+              "postal-addresses",
+              "time",
+              "timezone",
+              "typography",
+              "unicode",
+              "unicode-characters",
+              "video-games"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -542,12 +855,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bulb: A community-curated list of awesome resources to help you grow as a CTO",
+            "homepage": null,
             "id": 125417347,
             "language": null,
+            "license": null,
             "last_commit": "2021-06-05T00:19:13Z",
+            "open_issues": 2,
             "owner": "mateusz-brainhub",
             "repo": "awesome-cto-resources",
-            "stars": 930
+            "stars": 930,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cio",
+              "cto",
+              "founder",
+              "list",
+              "technology-management"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -558,12 +884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍🚀 A curated list of CTO resources.",
+            "homepage": null,
             "id": 51717366,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-14T22:31:54Z",
+            "open_issues": 0,
             "owner": "92bondstreet",
             "repo": "cto",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -574,12 +905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍🚀 A curated list of CTO resources.",
+            "homepage": null,
             "id": 51717366,
             "language": null,
+            "license": null,
             "last_commit": "2016-02-14T22:31:54Z",
+            "open_issues": 0,
             "owner": "92bondstreet",
             "repo": "cto",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -596,12 +932,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated and opinionated list of resources for startup founders and leaders of high-growth companies",
+            "homepage": null,
             "id": 582413746,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-02-16T09:50:34Z",
+            "open_issues": 3,
             "owner": "kuchin",
             "repo": "awesome-ceo",
-            "stars": 2591
+            "stars": 2591,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "ceo",
+              "decision-making",
+              "entrepreneurship",
+              "leadership",
+              "management",
+              "principles",
+              "startups",
+              "venture-capital"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         },
@@ -612,12 +964,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated and opinionated list of resources for Technical Program Managers",
+            "homepage": null,
             "id": 394685843,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2022-03-23T12:21:27Z",
+            "open_issues": 0,
             "owner": "kuchin",
             "repo": "awesome-tpm",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "project-management",
+              "roadmap",
+              "technical-program-management",
+              "technical-project-management",
+              "tpm"
+            ]
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
         }
@@ -626,15 +991,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:45:04.859Z",
+    "last_updated": "2026-08-29T04:14:20.581Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+      "homepage": null,
       "id": 76679496,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-02T12:50:21Z",
+      "open_issues": 4,
       "owner": "kuchin",
       "repo": "awesome-cto",
-      "stars": 35382
+      "stars": 35383,
+      "topics": [
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "cto",
+        "decision-making",
+        "engineering-management",
+        "hiring",
+        "interviewing",
+        "leadership",
+        "management",
+        "principles",
+        "roadmap",
+        "software-engineering",
+        "startups"
+      ]
     },
     "original_repository_sha": "2e656660c9437d2908005ec185f177c1d6e05b7a",
     "enhanced_repository": "enhansome/enhansome-cto",
