@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "charlax",
             "repo": "engineering-management",
-            "stars": 8349,
+            "stars": 8351,
             "topics": [
               "article",
               "bias",
@@ -111,7 +111,7 @@
                 "open_issues": 23,
                 "owner": "viraptor",
                 "repo": "reverse-interview",
-                "stars": 28588,
+                "stars": 28587,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
@@ -168,11 +168,11 @@
                 "id": 40097225,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-06-22T04:52:28Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-31T12:31:11Z",
+                "open_issues": 8,
                 "owner": "danluu",
                 "repo": "post-mortems",
-                "stars": 12283,
+                "stars": 12285,
                 "topics": [
                   "debugging",
                   "hacktoberfest",
@@ -202,10 +202,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 639,
+            "open_issues": 640,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 544065,
+            "stars": 544333,
             "topics": [
               "awesome-list",
               "free",
@@ -230,10 +230,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-01-04T03:51:47Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 73618,
+            "stars": 73635,
             "topics": [
               "architecture",
               "awesome",
@@ -307,7 +307,7 @@
                 "open_issues": 21,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365898,
+                "stars": 365993,
                 "topics": [
                   "angular-roadmap",
                   "backend-roadmap",
@@ -347,7 +347,7 @@
                 "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 360019,
+                "stars": 360100,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -385,10 +385,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-11T02:00:26Z",
-                "open_issues": 319,
+                "open_issues": 320,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14814,
+                "stars": 14816,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -419,7 +419,7 @@
                 "open_issues": 2,
                 "owner": "open-guides",
                 "repo": "og-search-engineering",
-                "stars": 598,
+                "stars": 599,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
@@ -475,7 +475,7 @@
                 "open_issues": 3,
                 "owner": "kdeldycke",
                 "repo": "awesome-billing",
-                "stars": 1331,
+                "stars": 1332,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -556,7 +556,7 @@
                 "open_issues": 30,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74218,
+                "stars": 74229,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
@@ -574,10 +574,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-08-26T05:40:57Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20878,
+                "stars": 20882,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -685,10 +685,10 @@
             "language": "CSS",
             "license": "CC0-1.0",
             "last_commit": "2026-02-08T02:36:12Z",
-            "open_issues": 180,
+            "open_issues": 181,
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2324,
+            "stars": 2327,
             "topics": [
               "awesome",
               "awesome-list",
@@ -747,7 +747,7 @@
             "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 501397,
+            "stars": 501708,
             "topics": [
               "awesome",
               "awesome-list",
@@ -774,7 +774,7 @@
             "open_issues": 152,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38558,
+            "stars": 38559,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -801,7 +801,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33637,
+            "stars": 33639,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
@@ -822,7 +822,7 @@
             "open_issues": 4,
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27659,
+            "stars": 27657,
             "topics": [
               "awesome",
               "awesome-list",
@@ -941,7 +941,7 @@
             "open_issues": 3,
             "owner": "kuchin",
             "repo": "awesome-ceo",
-            "stars": 2594,
+            "stars": 2595,
             "topics": [
               "awesome",
               "awesome-list",
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:30:32.542Z",
+    "last_updated": "2026-08-31T21:39:43.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
@@ -1003,7 +1003,7 @@
       "open_issues": 4,
       "owner": "kuchin",
       "repo": "awesome-cto",
-      "stars": 35395,
+      "stars": 35398,
       "topics": [
         "architecture",
         "awesome",
