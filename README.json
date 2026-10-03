@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Engineering Management",
-          "description": "(Github)",
+          "description": "charlax/engineering-management",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -42,7 +42,7 @@
         {
           "node_type": "item",
           "title": "Software Engineering Ladders",
-          "description": "(GitHub)",
+          "description": "jorgef/engineeringladders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -55,7 +55,7 @@
             "open_issues": 6,
             "owner": "jorgef",
             "repo": "engineeringladders",
-            "stars": 8546,
+            "stars": 8545,
             "topics": []
           },
           "first_seen": "2026-08-29T00:45:04.859Z"
@@ -63,7 +63,7 @@
         {
           "node_type": "item",
           "title": "Awesome Engineering Ladders",
-          "description": "(GitHub)",
+          "description": "posquit0/awesome-engineering-ladders",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "Reverse Interview Questions",
-              "description": "(GitHub)",
+              "description": "viraptor/reverse-interview",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "Basecamp Employee Handbook",
-          "description": null,
+          "description": "basecamp/handbook",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -159,7 +159,7 @@
             {
               "node_type": "item",
               "title": "List of Post-mortems",
-              "description": "(GitHub)",
+              "description": "danluu/post-mortems",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -172,7 +172,7 @@
                 "open_issues": 9,
                 "owner": "danluu",
                 "repo": "post-mortems",
-                "stars": 12498,
+                "stars": 12501,
                 "topics": [
                   "debugging",
                   "hacktoberfest",
@@ -192,7 +192,7 @@
         {
           "node_type": "item",
           "title": "Build Your Own X",
-          "description": "(GitHub)",
+          "description": "codecrafters-io/build-your-own-x",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -205,7 +205,7 @@
             "open_issues": 666,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 551199,
+            "stars": 551245,
             "topics": [
               "awesome-list",
               "free",
@@ -220,7 +220,7 @@
         {
           "node_type": "item",
           "title": "Awesome Scalability",
-          "description": "(GitHub)",
+          "description": "binhnguyennus/awesome-scalability",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -233,7 +233,7 @@
             "open_issues": 30,
             "owner": "binhnguyennus",
             "repo": "awesome-scalability",
-            "stars": 74482,
+            "stars": 74492,
             "topics": [
               "architecture",
               "awesome",
@@ -294,7 +294,7 @@
             {
               "node_type": "item",
               "title": "Developer Roadmaps",
-              "description": "(GitHub)",
+              "description": "nilbuild/developer-roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,7 +307,7 @@
                 "open_issues": 0,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 368724,
+                "stars": 368748,
                 "topics": [
                   "angular-roadmap",
                   "backend-roadmap",
@@ -334,7 +334,7 @@
             {
               "node_type": "item",
               "title": "Coding Interview University",
-              "description": "(GitHub)",
+              "description": "jwasham/coding-interview-university",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -347,7 +347,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362253,
+                "stars": 362262,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -375,7 +375,7 @@
             {
               "node_type": "item",
               "title": "Awesome Security",
-              "description": "(GitHub)",
+              "description": "sbilly/awesome-security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -388,7 +388,7 @@
                 "open_issues": 350,
                 "owner": "sbilly",
                 "repo": "awesome-security",
-                "stars": 14927,
+                "stars": 14930,
                 "topics": [
                   "awesome-list",
                   "security"
@@ -406,7 +406,7 @@
             {
               "node_type": "item",
               "title": "Open Guide to Search Engineering",
-              "description": "(GitHub)",
+              "description": "open-guides/og-search-engineering",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -434,7 +434,7 @@
             {
               "node_type": "item",
               "title": "Open Guide to Amazon Web Services",
-              "description": "(GitHub)",
+              "description": "open-guides/og-aws",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -462,7 +462,7 @@
             {
               "node_type": "item",
               "title": "Awesome Billing",
-              "description": "(GitHub)",
+              "description": "kdeldycke/awesome-billing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -475,7 +475,7 @@
                 "open_issues": 2,
                 "owner": "kdeldycke",
                 "repo": "awesome-billing",
-                "stars": 1346,
+                "stars": 1347,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -504,7 +504,7 @@
             {
               "node_type": "item",
               "title": "Awesome PriceOps",
-              "description": "(GitHub)",
+              "description": "priceops/awesome-priceops",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -543,7 +543,7 @@
             {
               "node_type": "item",
               "title": "Awesome Machine Learning",
-              "description": "(GitHub)",
+              "description": "josephmisiti/awesome-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -556,7 +556,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:45:04.859Z"
@@ -564,7 +564,7 @@
             {
               "node_type": "item",
               "title": "Awesome Production Machine Learning",
-              "description": "(GitHub)",
+              "description": "EthicalML/awesome-production-machine-learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -573,11 +573,11 @@
                 "id": 144863525,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:16:45Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-03T00:57:02Z",
+                "open_issues": 37,
                 "owner": "EthicalML",
                 "repo": "awesome-production-machine-learning",
-                "stars": 20965,
+                "stars": 20967,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -613,7 +613,7 @@
         {
           "node_type": "item",
           "title": "List of startups that had successful pivots",
-          "description": "(GitHub)",
+          "description": "fikrikarim/companies-with-successful-pivot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -645,7 +645,7 @@
         {
           "node_type": "item",
           "title": "Technical Due Diligence Questions",
-          "description": "(GitHub)",
+          "description": "altunyurt/technical_due_diligence",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -675,7 +675,7 @@
         {
           "node_type": "item",
           "title": "Awesome Product Management",
-          "description": "(GitHub)",
+          "description": "dend/awesome-product-management",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -685,10 +685,10 @@
             "language": "CSS",
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T22:44:09Z",
-            "open_issues": 116,
+            "open_issues": 117,
             "owner": "dend",
             "repo": "awesome-product-management",
-            "stars": 2388,
+            "stars": 2390,
             "topics": [
               "awesome",
               "awesome-list",
@@ -702,7 +702,7 @@
         {
           "node_type": "item",
           "title": "Awesome Product Manager",
-          "description": "(GitHub)",
+          "description": "yuhenobi/awesome-product-manager",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "Awesome.re",
-          "description": "(GitHub)",
+          "description": "sindresorhus/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,7 +747,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513695,
+            "stars": 513795,
             "topics": [
               "awesome",
               "awesome-list",
@@ -761,7 +761,7 @@
         {
           "node_type": "item",
           "title": "Engineering blogs",
-          "description": "(GitHub)",
+          "description": "kilimchoi/engineering-blogs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -774,7 +774,7 @@
             "open_issues": 151,
             "owner": "kilimchoi",
             "repo": "engineering-blogs",
-            "stars": 38728,
+            "stars": 38730,
             "topics": [
               "engineering-blogs",
               "lists",
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "Awesome Awesomeness",
-          "description": "(GitHub)",
+          "description": "bayandin/awesome-awesomeness",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -809,7 +809,7 @@
         {
           "node_type": "item",
           "title": "Awesome Falsehood",
-          "description": "(GitHub)",
+          "description": "kdeldycke/awesome-falsehood",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -822,7 +822,7 @@
             "open_issues": 4,
             "owner": "kdeldycke",
             "repo": "awesome-falsehood",
-            "stars": 27744,
+            "stars": 27747,
             "topics": [
               "awesome",
               "awesome-list",
@@ -851,7 +851,7 @@
         {
           "node_type": "item",
           "title": "Awesome CTO Resources",
-          "description": "(GitHub)",
+          "description": "mateusz-brainhub/awesome-cto-resources",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -880,7 +880,7 @@
         {
           "node_type": "item",
           "title": "Chief Technology Officer vs Coder Thinker Organizer",
-          "description": "(GitHub)",
+          "description": "92bondstreet/cto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -901,7 +901,7 @@
         {
           "node_type": "item",
           "title": "Curated list of CTO resources",
-          "description": "(GitHub)",
+          "description": "92bondstreet/cto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -928,7 +928,7 @@
         {
           "node_type": "item",
           "title": "Awesome CEO",
-          "description": "(GitHub)",
+          "description": "kuchin/awesome-ceo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -941,7 +941,7 @@
             "open_issues": 4,
             "owner": "kuchin",
             "repo": "awesome-ceo",
-            "stars": 2650,
+            "stars": 2651,
             "topics": [
               "awesome",
               "awesome-list",
@@ -960,7 +960,7 @@
         {
           "node_type": "item",
           "title": "Awesome TPM",
-          "description": "(GitHub)",
+          "description": "kuchin/awesome-tpm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -991,7 +991,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:03:28.626Z",
+    "last_updated": "2026-10-03T04:39:50.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
@@ -1003,7 +1003,7 @@
       "open_issues": 8,
       "owner": "kuchin",
       "repo": "awesome-cto",
-      "stars": 35540,
+      "stars": 35543,
       "topics": [
         "architecture",
         "awesome",
